@@ -5,7 +5,7 @@
 * .gitignore file to tell Git which ones will be uploaded
 * README.md - this file ifself to show the home page of this repo
 
-### UI of this game:
+### UI of this program:
 ![UI](https://github.com/vi-ht/ChatProgram/blob/master/chatting.png)
 
 ## 💬 Connect me via ❓ 
