@@ -4,9 +4,9 @@
 * ChatProgram Java source code.
 * .gitignore file to tell Git which ones will be uploaded.
 * README.md - this file ifself to show the home page of this repo.
-* 
+
 ### 2️⃣ Funtion of this program:
-* Implement the Chat application using Socket:
+Implement the Chat application using Socket:
 - Send text file (Both sides: client <-> server)
 - Peer to peer chat
 - Display emoj (using images , not Unicode chars)
